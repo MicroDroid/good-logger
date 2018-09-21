@@ -1,6 +1,8 @@
 good-logger
 ===========
 
+[![NPM](https://nodei.co/npm/good-logger.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/good-logger/)
+
 This logger ain't like any logger. It's a good logger. `console.log` is bad. `good-logger` is good. Stop using a bad logger. Stop using `console.log`. Please use a good logger. Please use `good-logger`.
 
 - `process.env.LOGGING = false` disables logging.
